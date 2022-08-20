@@ -1,0 +1,38 @@
+
+.containerTable{
+
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+
+}
+
+.tablePosition{
+    
+    margin: 5rem 10rem;
+    width: 100%;
+    height: 70%;  
+}
+
+.tablePosition button{
+    margin-bottom: 2rem;
+    font-weight: 600;;
+}
+
+.buttonPostion{
+    margin-bottom: 1rem;
+}
+
+.btnAction{
+    height: 2rem;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0;
+}
+
+.btnAction button{
+    margin: 0;
+}
+
+
